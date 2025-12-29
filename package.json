@@ -1,7 +1,6 @@
 {
   "name": "@smart-coder-labs/eslint-config",
   "version": "1.0.1",
-  "private": true,
   "type": "module",
   "main": "react.js",
   "dependencies": {
@@ -12,5 +11,12 @@
   },
   "peerDependencies": {
     "eslint": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-coder-labs/eslint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
