@@ -1,0 +1,16 @@
+{
+  "name": "@smart-coder-labs/eslint-config",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "react.js",
+  "dependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0"
+  },
+  "peerDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
